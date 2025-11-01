@@ -24,7 +24,7 @@ Develop a system that:
 
 ---
 
-## 🗂 Dataset
+## Dataset
 - **MovieLens 100K Dataset**
   - 100,000 ratings (1–5 scale)
   - 943 users and 1,682 movies
@@ -34,7 +34,7 @@ Develop a system that:
 
 ---
 
-## ⚙️ Project Steps
+## Project Steps
 
 ### 1. Data Loading & Preprocessing
 - Load `u.data` and `u.item` files.
@@ -74,7 +74,7 @@ Shawshank Redemption, The (1994)
 
 ---
 
-## 🧩 Insights
+## Insights
 - **User-Based CF** performs well when user preferences overlap significantly.
 - **Item-Based CF** is more stable — movie similarity patterns remain consistent over time.
 - Recommendations align with genre, theme, or audience taste.
@@ -90,12 +90,12 @@ Shawshank Redemption, The (1994)
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Kenzy Mohammed**  
 *Data Science Enthusiast*  
 [linkedin.com/in/kenzy-mohamed-2938852b6](#) | [https://github.com/KenzyMohammed](#)
 
 ---
 
-## 📄 License
+## License
 This project is open-source and available under the [MIT License](LICENSE).
