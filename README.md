@@ -82,7 +82,7 @@ Shawshank Redemption, The (1994)
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Implement **Matrix Factorization (SVD)** for latent factor discovery.
 - Add **content-based filtering** using movie genres or descriptions.
 - Combine methods into a **hybrid recommendation model**.
